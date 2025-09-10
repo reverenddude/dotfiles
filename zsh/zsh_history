@@ -1,0 +1,1378 @@
+cd Scheelite/
+echo 
+echo $shell
+echo $SHELL 
+curl -OL https://github.com/ryanoasis/nerd-fonts/releases/latest/download/JetBrainsMono.tar.xz
+mv
+mv --help
+mv JetBrainsMono.tar.xz Downloads/JetBrainsMono.tar.xz
+close
+cd tmux-3.4
+sudo make install
+configure
+sudo dnf install libevent-devel
+sudo dnf -y install tmux
+;2C;5C\
+
+;2C;2D;2B;2D;2C;2A;2D;2B;2C;2A;2D;2A;2B
+n
+b
+o
+echo Desktop
+!
+\:join-pain -s 2 -t 1
+;5C
+./zshsrc
+nvim ~./zshsrc
+nvim ./zshsrc
+sudo dnf -S ttf-jetbrains-mono-nerd
+ries to build Alacritty. Here's a dnf command that should install all of them. If something is still found to be missing, please open an issue.\
+"\
+'
+[200~dnf install cmake freetype-devel fontconfig-devel libxcb-devel libxkbcommon-devel g++~
+dnf install cmake freetype-devel fontconfig-devel libxcb-devel libxkbcommon-devel g++
+sudo dnf install cmake freetype-devel fontconfig-devel libxcb-devel libxkbcommon-devel g++
+git clone https://github.com/alacritty/alacritty.git\
+cd alacritty
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+command rustup
+rustup override set stable
+cd Downloads/alacritty
+cargo build --release
+alacrity
+infocmp alacritty
+eixt
+man 5 alacritty
+LS
+ls .config
+mkdir alacritty
+mv alacritty .config
+cd /.config
+cd JetBrainsMono
+nvim README.md
+mv JetBrainsMono ~/.local/share/fonts
+cd ~./local/share/fonts
+Cd ../..
+cd usr
+cd fonts
+builtin cd -- /usr/share/fonts/aajohan-comfortaa-fonts
+tar
+tar xzf JetBrainsMono.tar.xz
+tar --help
+mv JetBrainsMono usr/share/fonts
+mv JetBrainsMono usr/share/fonts/JetBrainsMono
+mv JetBrainsMono ~./usr/share/fonts
+mv JetBrainsMono ~/usr/share/fonts
+cd ~/.
+cd ~./
+cd usr/share/font
+mv /JetBrainsMono ~./usr/share/fonts
+mv /JetBrainsMono ~/.usr/share/fonts
+mv JetBrainsMono ~/.usr/share/fonts
+mv JetBrainsMono /usr/share/fonts
+mv JetBrainsMono /usr/share/fonts -v
+sudo mv JetBrainsMono /usr/share/fonts -v
+cd /.config/alacritty
+git clone https://github.com/catppuccin/alacritty.git ~/.config/alacritty/catppuccin
+echo $HOME
+gnome-tweaks
+sudo echo $HOME\
+
+cd zs
+zshrc
+./zshrc
+nvim ~./zshrc
+sudo nvim ~./zshrc
+mv ~/.zshrc ~/.zshrc.bak
+touch ~/.zshrc
+alacritty
+dconf-editor
+sudo update-alternatives --config x-terminal-emulator
+cd Downloads/tmux-3.4
+tmux info
+nvim ~/.tmux.config
+mv ~/.tmux.config ~/.tmux.conf
+tmux source ~/.config
+rm tmux
+rmdir tmux
+cd ~/.config/
+mkdir tmux
+touch tmux.conf
+nim ~/.config/tmux/tmux.conf
+tmux source tmux.conf
+cd ~/.tmux
+mkdir ~/.tmux
+mkdir ~/.tmux/plugins
+mkdir ~/.tmux/plugins/tpm
+mkdir ~/.tmux/plugins/tpm/tpm
+e
+sudo ;5D
+;5D;5C
+nv
+tmux source
+cd tmp
+cd tmux-0
+sudo cd tmux-0
+chmod
+chmod --help
+sudo chmod 1777 /tmp
+cd tmux-
+cd tmp/tmux-0
+sudo cd tmp/tmux-0
+mkdir default
+sudo mkdir default
+sudo tmux source ~/.config/tmux/tmux.conf
+echo $USER
+gnome-terminal -x echo "hello world"
+gnome-terminal --x echo "hello world"
+gnome-terminal --help
+where steam
+pactl list sinks
+pactl list short <sinks|sources>
+touch test.desktop
+nvim test.desktop
+nvim jetbrains-toolbox.desktop
+touch ztest.sh
+nvim ztest.sh
+ztest
+ztest.sh
+sh ztest.sh
+touch sound-output.sh
+tmux show -g | cat > ~/.tmux.con
+tmux show -g | cat > ~/.tmux.conf
+%
+nvim tmux.conf'\
+'
+pactl list short sink
+sh
+cd ../
+cd autostart
+pactl
+pactl --help
+pactl set-default-sink
+pactl set-default-sink 1362
+pactl set-default-source 1362
+pactl list short sources
+nvim sound-output.sh
+pactl list short sinks
+sh sound-output.sh
+cd /.tmux
+cd ~/.tmux/plugins
+cd tpm
+rm tpm
+rmdir tpm
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+cd ~/.tmux/plugins/tpm/tpm
+cd ~/.tmux/plugins/tpm
+tmux source ~/.tmux.conf
+rm ~/.tmux.conf
+tmux source ~/.config/tmux/tmux.conf
+asdfask
+Awaken
+cd tmux/tmux.conf
+cd /usr/share/alsa-card-profile/mixer/paths
+pactl list sources | grep priority
+sudo dnf install pavucontrol
+pavucontrol
+cd ~/.config/pulse/default.pa
+nvim ~/.config/pulse/default.pa
+pactl list sources sinks
+pactl list sources short
+pactl list sinks short
+pulseaudio -k
+6800 / 
+calc
+calculator
+nvi
+cd RustRov
+cd Rus
+cd
+cd..
+cd Sc
+firefox
+dasfd
+X
+xit
+tmu
+cd .config
+cd share/nvim
+rm -rf nvim
+git clone -b v2.0 https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
+rm test.test
+cd ./config
+cd ~./config
+cd nvim/ls
+vnim
+lua
+cd tmux
+cd ala
+cd tmux/plugins
+nvim tmux
+curl -s https://gist.githubusercontent.com/lifepillar/09a44b8cf0f9397465614e622979107f/raw/24-bit-color.sh >24-bit-color.sh\
+bash 24-bit-color.sh
+nvim nvim/init.lua
+nvim init.lua
+[200~curl -s https://gist.githubusercontent.com/lifepillar/09a44b8cf0f9397465614e622979107f/raw/24-bit-color.sh >24-bit-color.sh
+bash 24-bit-color.sh~
+bash 24-bit-color.sh
+nvim alacritty/alacritty.toml
+nvim tmux/tmux.conf
+$TERM
+nvim --version
+cd ~/RustroverProjects/Scheelite/
+nvim src/main.rs
+$echo shell
+$echo term
+echo $TERM
+~/.config/nvim
+rm -rf /usr/local/go && tar -C /usr/local -xzf go1.23.0.linux-amd64.tar.gz
+sudo rm -rf /usr/local/go && tar -C /usr/local -xzf ~/Downloads/go1.23.0.linux-amd64.tar.gz
+sudo rm -rf /usr/local/go && tar -C /usr/local -xzf go1.23.0.linux-amd64.tar.gz
+sudo rm -rf /usr/local/go
+tar -C /usr/local -xzf go1.23.0.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.23.0.linux-amd64.tar.gz
+mkdir GoTest
+go mod init
+cd pkg
+cd mod
+rmdir go
+rmtree go
+rm go
+[200~export PATH=$PATH:/usr/local/go/bin~
+sudo export PATH=$PATH:/usr/local/go/bin
+nvim alacritty.toml
+echo $PATH
+echo $SHELL
+go enc
+cd ~/GoTest
+nvim go.mod
+cd GoTest
+go env
+go mod init GoTest/hello
+nvim ~/GoTest
+nvim ~/.config/alacritty
+nvim ~/.config/nvim
+nvim ~/RustroverProjects/Scheelite/src
+nvim RustroverProjects/Scheelite/Cargo.lock
+nvim RustroverProjects/Scheelite/
+cargo version
+cd RustroverProjects/Scheelite/src
+git add main.rs scheduler.rs task.rs
+git commit -m "Initial composition of a scheduler."
+rm :q
+tmux source-file ~/.config/tmux/tmux.conf
+tmuc
+mkdir
+mkdir Grease
+go mod init Grease
+touch grease.go
+go mod .
+sudo dnf
+sudo dnf install fedora-workstation-repositories
+sudo dnf config-manager --set-enabled google-chrome
+sudo dnf install google-chrome-stable
+chrome
+sudo touch /etc/udev/rules.d/50-zsa.rules\
+
+nvim /etc/udev/rules.d/50-zsa.rules\
+
+sudo groupadd plugdev
+sudo usermod -aG plugdev $USER
+sudo nvim /etc/udev/rules.d/50-zsa.rules\
+
+del go.mod
+rm GoTest
+rmdir GoTest
+rm -f -r GoTest
+cd ~/go
+;5B;5B;5B;5B;5B;5B;5B;5B;5B;5B;5Bv
+cd ~/G
+go get "github.com/pelletier/go-toml/v2"
+i386
+		xx
+excit
+nvim ~/Grease
+ecit
+v
+wine
+cd ~/Downloads
+tar -xf Sat
+tar -xf SatisfactoryModManager-2.9.3.tar.gz
+cd ~/Downloads/SatisfactoryModManager-2.9.3
+make
+./configure
+dnf install webkit2gtk-4.0
+sudo dnf install webkit2gtk-4.0
+cd ~/Sc
+cd ~/RustroverProjects/Scheelite
+rm -rf .github
+curl http://localhost:8080/websites
+curl http://localhost:8080/websites/Google
+jq
+go run . --config "/home/eric/Grease/config copy.toml"
+go run . -config="config copy.toml"
+go run . -config=config copy.toml
+go run . -config=/home/eric/Grease/config copy.toml
+go run . -config="/home/eric/Grease/config copy.toml"
+curl http://localhost:8080/websites/Google | jq '.'
+curl http://localhost:8080/websites/ | jq '.'
+curl http://localhost:8080/websites | jq '.'
+rm go.mod
+mkdir ~/GoWeb
+go mod init GoWeb
+touch goweb.go
+cd ~/GoW
+cd ~/GoWeb
+cd ~/Grease
+npm update
+nvpm
+npm
+node -v
+npm -v
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+nvm
+command -v nvm
+npm install typescript
+npm init -h
+npm init -y
+touch input.css
+tree -h
+tree --gitignore
+tree -help
+tree --prune
+npm run build
+mkdir components
+mkdir public
+npx create-react-app website-status
+npx create-react-app frontend
+npm audit fix
+npm audit fix --force
+npm audit
+code
+cd [200~/home/eric/.local/share/Steam/steamapps/common/SatisfactoryDedicatedServerc
+cd /home/eric/.local/share/Steam/steamapps/common/SatisfactoryDedicatedServer
+ip addr show
+hostname -I
+curl ifconfig.me
+./FactoryServer.sh
+sudo firewall-cmd --state
+sudo firewall-cmd --get-services
+steamCMD
+dnf install SteamCMD
+SteamCMD
+sudo dnf install SteamCMD
+sudo dnf install openssh-client
+which ssh
+ps aux | grep steam
+ps
+ps aux
+ss
+nvim ~/.tmux.conf
+cd ~/.config/tmux/tmux.conf
+nvim tmux.conf
+cd ~/.zshrc
+cd ~/.zsh
+sudo file 
+python
+cargo
+mkdir Newix
+cd Newix
+cargo init Newix
+cargo init newix
+rm Newix
+rm -rf Newix
+cd newix
+nvim 
+cd Rust/newix
+rm newix
+rm -rf newix
+cd /
+cd /home/
+cd eric
+kill %1
+fg q
+fg 1
+kill -STOP %1
+jobs
+cargo help
+cargo -V
+cargo init RustDisco
+. RustDisco
+code RustDisco
+code RustroverProjects/RustDisco
+cd RustRoverProjects
+cd RustDisco
+l
+rm -rf RustDisco
+tmux attach -t 1
+ls 
+mkdir engine
+cd engine
+cargo -h
+cargo add rusqlite
+sudo dnf install sqlite3
+cargo fix --lib -p rust-disco
+cargo fix --lib -p rust-disco --allow-dirty
+where sqlite
+where sqlite3
+cd /usr/bin/ld
+cd ld
+sudo dnf install sqlite3-dev
+sudo dnf install libsqlite3-dev
+sudo dnf install sqlite-devel
+cargo add env_logger
+cargo remove env_logger
+cargo add log
+cargo add toml
+cd /home/eric
+cd /home
+cargo add uuid
+cargo add tantivy
+ssh
+cd /home/eric/documents
+cd documents
+cd Obsidian
+obsidian
+sudo ./Awakened-PoE-Trade-3.25.102.AppImage
+sudo ./Awakened-PoE-Trade-3.25.102.AppImage --no-sandbox
+cd [200~/home/eric/.local/share/Steam/steamapps/compatdata/238960/pfx/drive_c/users/steamuser/Documents/My Games/Path of Exile~
+cd /home/eric/.local/share/Steam/steamapps/compatdata/238960/pfx/drive_c/users/steamuser/Documents/My Games/Path of Exile
+cd ~/.local/share/Steam/steamapps/compatdata/238960/pfx/drive_c/users/steamuser/Documents/My Games/Path of Exile
+cd share/Steam/steamapps
+cd compatdata
+cd 238960/pfs/d
+cd 238960/pfx/drive_c/users/steamuser/Documents
+cd My\ Games
+cd Path\ of\ Exile
+nvim production_Config.ini
+cd ./Config
+zsh
+zsh --help
+cd /home/eric/.zshrc
+nvim /home/eric/.zshrc
+fg
+p10k configure
+cd go
+cd /~
+touch torrentgalaxy.py
+nvim torrentgalaxy.py
+dnf install vlc
+vlc
+sudo dnf install x265-libs libde265
+sudo dnf uninstall vlc
+sudo dnf remove vlc
+sudo dnf install vlc
+sudo dnf autoremove
+sudo dnf group upgrade --with-optional Multimedia --allowerasing
+fcf
+fcz
+rg --version
+nvim ~/.zshrc
+cd nvim
+where tmux
+cd ~./config/alacritty
+~/.config/alacritty
+sudo cd ~/.config
+cd ~./config/
+cd ~/.config
+cd alacritty
+cd ~/.config/alacritty
+tmux new
+tmux new -s New
+tmux a -t New
+asdf
+nvim ~/.config/alacritty/alacritty.toml
+nvim ~/.config/alacritty/
+asdfa
+as
+cd ~/.config/tmux/
+which tmux
+cd /usr/bin/tmux
+nvim /usr/bin/tmux
+nvim a.out
+rm a.out
+nvim package.json
+sudo cd /usr/bin/tmux
+tmux i
+cd pl
+;q
+tmux new -s Name
+tmux new -s Development
+cd Desktop
+nvim ~/.config/tmux/tmux.conf
+htop
+top
+tmux attach -t 1 windows
+tmux attach -t windows
+tmux attach -t 0
+I
+ls -l ~/.config/tmux/plugins/catppuccin/tmux/catppuccin.tmux
+cd plugins
+rn catppuccin-tmux __catppuccin-tmux
+mv catppuccin-tmux __catppuccin-tmux
+asdf 
+tmux new -s SessionName -n WindowName
+tmux new -s SatisfactoryServer
+cd Documents
+cd JagexLauncher
+tar -xzf jagex-launcher-linux-1.0.1.tar.gz
+where runelite
+echo $GAMEDIR
+echo $CWD
+$GAMEDIR
+cd /home/eric/.wine
+cd /home/eric/.lutris
+alacritty migrate
+cd /home/downloads
+tar -xzf NeverSink-PoE2litefilter-0.1.1.tar.gz -C /home/eric/.local/share/Steam/steamapps/compatdata/2694490/pfx/drive_c/users/steamuser/Documents/My Games/Path of Exile 2\
+
+tar -xzf NeverSink-PoE2litefilter-0.1.1.tar.gz -C "/home/eric/.local/share/Steam/steamapps/compatdata/2694490/pfx/drive_c/users/steamuser/Documents/My Games/Path of Exile 2"
+cd /home/eric/Downloads
+tar -xzf NeverSink-PoE2litefilter-0.2.2.tar.gz -C "/home/eric/.local/share/Steam/steamapps/compatdata/2694490/pfx/drive_c/users/steamuser/Documents/My Games/Path of Exile 2"
+sudo dnf install dotnet-sdk-8.0
+dotnet new install Avalonia.Templates
+cd /home/eric/RiderProjects
+rm -rf ./ToDoApp
+dotnet new list
+which avalonia
+which dotnet
+dotnet list
+dotnet
+dotnet --list-sdks
+dotnet --list-runtimes
+dotnet --help
+dotnet --version
+dotnet --info
+ulimit
+ping 192.168.0.101
+ping google.com
+ssh eric@192.168.0.101:443
+ping 192.168.0.101:443
+ssh eric@192.168.0.10
+ssh eric@192.168.0.101
+tar -xzf PathOfBuilding-PoE2-0.4.1.tar.gz Documents/Pob2
+tar -xzf PathOfBuilding-PoE2-0.4.1.tar.gz -C /Documents/Pob2
+tar -xzf PathOfBuilding-PoE2-0.4.1.tar.gz -C ~/Documents/Pob2
+tar -xzf PathOfBuilding-PoE2-0.4.1.tar.gz -C ~/Documents/PoB2
+cd ~/.local/share/lutris
+cd runners
+cd wine
+sudo lutris
+cd ~/home
+cd ~/Games
+cd path-of-building-2
+find . -type f -name "*.exe"
+uname
+uname -a
+uname -h
+uname --help
+cd tests
+cd evidence_store_tests
+cargo test -- --nocapture
+vim
+rustup
+ls ~/.cargo
+rustup doc --book
+cargo new Day-1
+cargo new Day-2
+rm -rf Day-2
+cargo new day-2
+cd Day-1
+mkdir pt1
+mkdir pt2
+mkdir day-2
+cargo new day2-part1
+mkdir day-3
+rm day-3
+rm -rf day-3
+cargo new day-3
+touch puzzle_input.txt
+cd day-2
+cd ~/Rust/Advent-of-Code-2024/day-2
+cd day2-part1
+cd day-3
+cargo add regex
+182780583
+241340759
+"do\
+ls\
+"
+git remove Advent-of-Code-2024
+git rm Advent-of-Code-2024
+git init Advent-of-Code-2024
+git add 
+git add ./Advent-of-Code-2024
+git add *
+cargo new day-4
+cd Z ~
+cd ~/Rust/Advent-of-Code-2024/day-3
+cd day-4
+git list
+git --list
+cd ../../
+cargo new day-5
+rust-analyzer
+sudo dnf clear
+dnf --help
+cargo check
+cargo --help
+\:checkhealth
+cd ~/lib
+rustc --help
+cargo clean
+cd /home/eric/.local/share/zed
+cd /home/eric/.local
+curl -f https://zed.dev/install.sh | sh\
+
+zed
+~/.local/bin/zed
+cd bin
+cd zed
+cd logs
+vim Zed.log
+rustup --help
+rust-analyzer --help
+rustup component add rust-analyzer
+which rust-analyzer
+cd day-
+cd ~/.config/nvim
+nvim.
+nvim ls
+tmux .
+tmux --help
+tmux --flags
+tmux new-session advent-of-code
+tmux new-session -A advent-of-code
+strace tmux
+tmux new-session -A advent-of-code -v
+killall tmux
+tmux new -s aoc
+\:x
+cd ~/.config/tmux
+cd ~/Rust/Advent-of-Code-2024/
+cd ~/Rust/Advent-of-Code-2024
+tmux attach -t aoc
+tmux ls
+cd Advent-of-Code-2024
+cd day-5
+sudo cargo run[A
+cargo doc
+rustup doc --std
+cd RustroverProjects/rust-disco/
+git
+git help
+curl -sS https://webi.sh/golang | sh
+go install github.com/bootdotdev/bootdev@latest
+echo 'export PATH=$PATH:$HOME/go/bin'
+echo 'export PATH=$PATH:$HOME/go/bin' >> ~/.bashrc
+source ~/.bashrc
+echo 'export PATH=$PATH:$HOME/go/bin' >> ~/.zshrc
+source ~/.zshrc
+bootdev --version
+bootdev login
+bootdev run 65e6780d-fdde-447a-9898-b30b73793a3a
+bootdev run 65e6780d-fdde-447a-9898-b30b73793a3a -s
+git --version
+bootdev run 0552b1c3-49d9-4d4b-b44d-e91188a79c92
+bootdev run 0552b1c3-49d9-4d4b-b44d-e91188a79c92 -s
+man git
+git config --get user.name
+git config --global init.defaultBranch master
+cat ~/.gitconfig
+bootdev run 69fb8a76-9456-47e2-9804-05466614882e
+bootdev run 69fb8a76-9456-47e2-9804-05466614882e -s
+mkdir BootDev
+mkdir webflyx
+ls -a
+bootdev run fda2c302-cb1e-4ed1-910c-609d85d33e4a
+bootdev run fda2c302-cb1e-4ed1-910c-609d85d33e4a -s
+touch contents.md
+bootdev run f330368c-734c-4708-971b-2ad33b4b7f52
+bootdev run f330368c-734c-4708-971b-2ad33b4b7f52 -s
+bootdev run 10bf6614-7c0e-4710-9c84-4fee200d63e4
+bootdev run 10bf6614-7c0e-4710-9c84-4fee200d63e4 -s
+git commit -m "A: add contents.md"
+bootdev run 321d7b2d-60b8-433c-9123-210bbf49c758 -s
+git --no-pager log -n 10
+bootdev run 865b32b2-1493-48aa-b32e-a1e7418bc609 -s
+git log -n 10
+cd .git/ob
+cd .git/objects
+cd 98
+ls -al
+sudo dnf install xxd
+cat dc92b7b636ef37010cf45afbf3f3a50d89b22d
+xxd dc92b7b636ef37010cf45afbf3f3a50d89b22d
+xxd dc92b7b636ef37010cf45afbf3f3a50d89b22d > /tmp/commit_object_hex.txt
+bootdev run 4efdf7b5-dd51-40ea-99e3-4e221e24bd0f -s
+git cat-file -p dc92b7b636ef37010cf45afbf3f3a50d89b22d
+git cat-file -p 98dc92b7b636ef37010cf45afbf3f3a50d89b22d
+git cat-file -p 98dc92b7b636ef37010cf45afbf3f3a50d89b22d > /tmp/catfileout.txt
+bootdev run 7affbcbd-1455-43f3-868a-b10662921a91 -s
+git cat-file -p 5b21d4f16a4b07a6cde5a3242187f6a5a68b060f
+git cat-file -p 5b21d4f16a4b07a6cde5a3242187f6a5a68b060f > /tmp/blobfile.txt
+git cat-file -p ef7e93fc61a91deecaa551c4707e4c3049af42c9  > /tmp/blobfile.txt
+bootdev run ce822188-75cf-4c5a-92b9-17b2878ac9f1 -s
+git commit -m "B: add titles"
+git cat-file -p 600e9306c0bb1d2856151296fb00b76f221b7382
+bootdev run 71127960-79af-452d-a732-0c44908ca7bf -s
+git cat-file -p 37712fab0aa902b37e2197ebb71e4e1ba4f45f3d
+mkdir quotes
+vim starwars.md
+vim dune.md
+cd quotes
+git add starwars.md
+git add dune.md
+git commit -m "C: add quotes"
+git cat-file -p 66693b8d72daef9170108c6ab4b3abd7f3950dd2
+bootdev run 1e2eb318-2a6f-44a0-bc93-e9cdd9510ebe -s
+git config --add webflyx.ceo "Eric"
+git config --add webflyx.cto "Other Eric"
+git config --add webflyx.valuation "mid"
+git config
+git config --get user.email
+git config --get webflyx.ceo
+git config --unset webflyx.cto
+git config --unset webflyx
+git config --remove-section webflyx
+git config --local --add user.name "Local Eric"
+git config --list --local
+git config --list
+git config --global init.defaultBranch main
+git branch -m master main
+git switch -c my_new_branch
+git branch -r my_new_branch
+git branch --help
+git branch -d my_new_branch
+git commit -m "D: added classics"
+clear
+git log --decorate=full
+git log --decorate=no
+git log --oneline --decorate=full
+find .git/refs/heads
+cat .git/refs/heads/main/[200~title, director, year
+One Crazy Summer, Savage Steve Holland, 1986
+The Princess Bride, Rob Reiner, 1987
+The Goonies, Richard Donner, 1985
+The Breakfast Club, John Hughes, 1985
+cat .git/refs/heads/main/9f5a2a1199aac33422bed3f19ea15bc7fe2e5a8b
+find .git/refs/heads/main
+find 9f5a2a1199aac33422bed3f19ea15bc7fe2e5a8b
+find ./mian
+find ./main
+find main
+cat .git/refs/heads/main
+cd .git/refs/heads/main
+cd main
+vim main
+cd .gi
+cd objects
+cd 9f
+cd 5a2a1199aac33422bed3f19ea15bc7fe2e5a8b
+vim 5a2a1199aac33422bed3f19ea15bc7fe2e5a8b
+xxd 5a2a1199aac33422bed3f19ea15bc7fe2e5a8b
+find ./git/refs/heads
+cd .git/refs/heads
+cd add_classics
+cd ../../..~c
+vim contents.md
+git add contents.md
+git commit -m "E: updated contents"
+git log --oneline --graph --all
+git log --all docs
+git log --all
+git merge add_classics
+git merge add_classics -m "F: Merging add_classics"
+git commit --amend -m "F: Merge branch add_classics"
+git log --oneline --decorate --graph -- parents
+git log --graph
+git log --oneline --decorate --graph --parents
+git --no-pager log --oneline --decorate --graph --parents
+git switch add_classics
+git commit
+git switch -c update_titles
+vim titles.md
+git commit -m "G: Added title"
+git merge update_titles
+git branch -d update_titles
+git switch -c update_dune 441b3eb63f14428b66907414d343410134519f17
+git log --oneline -n 1
+git commit -m "H: Spice"
+vim quotes/dune.md
+git add quotes/dune.md
+git commit -m "I: Fear"
+echo "* The Internship" > titles.md
+git add titles.md
+git commit -m "J: broke title"
+git reset --soft 37bfbf4d37bc7e3f5534db4fb2fd7af5689f18a5
+git reset --hard 37bfbf4d37bc7e3f5534db4fb2fd7af5689f18a5
+cat titles.md
+mkdir webflyx-local
+cd webflyx-local
+git config --get init.defaultbranch
+git remote add origin ../webflyx
+git remote get-url origin
+cd .git
+find ./objects
+find ./git/objects
+find ./.git/objects
+git fetch
+find .git/objects
+find .git/objects | head -n 20
+git log origin/update_dune
+git merge origin/main
+curl -sS https://webi.sh/gh | sh
+gh auth login
+rm -rf webflyx-local
+git remote add origin https://github.com/reverenddude/webflyx.git
+git ls-remote
+git merge update_dune
+cd BootDev
+cd webflyx
+git log --tree
+git log --oneline --graph
+git branch -d update_dune
+git switch -c add_classics
+vim classics.csv
+git add classics.csv
+git commit -m "L: psycho added"
+git push origin add_classics
+git branch -d add_classics
+mkdir secure
+vim secure/passwords.txt
+vim guildty_pleasures.md
+touch .gitignore
+git commit -m "M: added gitignore"
+sudo dnf install pandoc
+pandoc --version
+vim advert.md
+pandoc advert.md -o advert.html
+xdg-open advert.html
+vim .gitignore
+git commit -m "N: updated gitignore"
+git rm guildty_pleasures.md
+cd secure
+git clone https://github.com/reverenddude/megacorp
+cd megacorp
+git config --local rerere.enabledfalse
+git config --local rerere.enabled false
+rm -rf .git/rr-cache
+git config --get rerere.enabled
+git switch -c add_contrib
+cd contributors
+vim reverenddude.txt
+git commit -m "add myself as a contributor"
+git push origin add_contrib
+git branch -d add_contrib
+git branch -D add_contrib
+cat .git/HEAD
+git switch -c slander
+git commit -m "B: slander"
+git branch -d slander
+git branch -D slander
+git reflog
+git cat-file -p c9faf99
+git cat-file -p e61f86bc
+git cat-file -p e61f86b
+git cat-file -p e61f86
+git cat-file -p e61f8
+git cat-file -p e61f
+git cat-file -p e61
+git cat-file -p 30fb
+git cat-file -p 30fb > slander.md
+vim slander.md
+git commit -m "B: recovery"
+cat slander.md
+git switch -c add_customers
+git commit -m "C: update customers and partners"
+git commit -m "D: add jayson to customers"
+git log --oneline --graph --all --decorate
+git switch add_customers
+git commit -m "E: resolve conflict with stupid Greg's customer"
+git reset --hard 0abf25e
+git branchy
+git merge main
+git commit -m "E: fine, Greg can have this one"
+git merge add_customers
+git branch -d add_customers
+git switch -c delete_records
+git commit -m "F: borking stuff"
+git swtich main
+vim customers/all.csv
+vim orgs/partners.txt
+git commit -m "G: really borking it"
+git merge delete_records
+git checkout --theirs customers/all.csv
+git checkout --ours orgs/partners.txt
+git commit -m "H: theirs and ours"
+git --no-pager log --oneline
+cat orgs/partners.txt
+cat customers/all.csv
+git branch -d delete_records
+git switch -c banned
+git commit -m "I: banned"
+git commit -m "J: also banned?"
+git switch banned
+git rebase main
+git log --all --oneline
+vim customers/banned.csv
+git checkout --theirs customers/banned.csv
+git rebase --continue
+git branch
+git --no-pager log --oneline --all
+git switch main
+git branch -d banned
+git branch -D banned
+cargo test
+git commit -m "updating gitignore"
+git commit -m "Restructured project slightly, adding tests"
+git commit -m "message"
+git status
+git log --oneline
+git add .gitignore
+git commit -m "updated gitignore"
+sudo dnf clean all
+rm -rf /home/eric/TestCases
+rm -rf TestCases
+cd TestCases
+vim f2e5afe1-bb62-4e1f-95ac-e67ee6f71672.toml
+cd MySimpleCase2
+rm -rf MySimpleCase2
+cd EvidenceStore
+l.s
+cat 26335284-4447-4602-8ba0-3cc780ef3bb4.toml
+cd MySimpleCase
+cat case.toml
+vim case.toml
+rm -rf MySimpleCase
+cat MySimpleCase/case.toml
+cargo add infer
+cargo add md5
+cargo add hex
+cd /home/eric/RustroverProjects/rust-disco/src/tests/sample_data
+cd /home/eric/RustroverProjects/rust-disco
+cd /home/eric/RustroverProjects/rust-disco/tests/govdocs1
+sudo rm -rf 151
+files .
+file .
+cargo add exif
+cargo add image
+cargo update half@2.5.0 --precise 2.3.1
+rustup update stable
+cargo update half@2.3.1
+cargo add calamine
+cargo add zip
+cargo add quick_xml
+cargo remove calamine
+cd Sampler
+unzip -l file_example_XLSX_50.xlsx
+cat file_example_XLSX_50.xlsx/docProps/core.xml
+unzip file_example_XLSX_50.xlsx 
+unzip file_example_ODP_500kB.odp
+cd PycharmProjects
+cd Testing
+cargo add file-format
+vim t.txt
+vim mimes.txt
+exi
+cargo remove infer
+cargo add dotext
+cd /home/eric/.var/app/net.runelite.RuneLite/.runelite/loot-filters/filters
+nvim Rev_Filter.rs2f
+rm riktenx_filterscape.rs2f
+cd sounds
+rm Exalted\ Drop
+cd filters
+vim Rev_Filter.rs2f
+nvim riktenx_filterscape.rs2f
+cd exposedpassion
+vim ep.txt
+cd Pictures
+nvim code.txt
+sudo dnf config-manager addrepo --from-repofile=https://repository.mullvad.net/rpm/stable/mullvad.repo
+sudo dnf install mullvad-vpn
+mullvad
+sudo arp-scan --localnet
+nmap
+nmap -sP 192.168.0.1/24
+ping -b 192.168.0
+ssh eric@192.168.0.102
+ssh eric@lab
+ssh eric@lab:22
+ssh eric@192.168.0.100/24
+ping 192.168.0.100
+ssh eric@192.168.0.100:22
+s
+sudo apt-get install arp-scan\
+sudo arp-scan -l | grep 192.168.0.100
+ssh eric@192.168.0.100
+sudo umount /run/media/eric/A6D29F3AD29F0E25
+sudo dd if=/dev/zero of=/dev/sda bs=4M status=progress
+df
+df -h
+./Bambu_Studio_linux_fedora-v02.00.03.54.AppImage
+sudo dnf install webkit2gtk3
+sudo reboot NOW
+flatpak list --runtime
+flatpak -h
+flatpak install nvidia-570-133-07
+snap
+sudo dnf install snapd
+sudo ln -s /var/lib/snapd/snap /snap
+\
+\
+sudo snap install fusion360 --edge
+\
+\
+sudo snap install fusion360 --edge --devmode
+sudo snap connect fusion360:wine-9-devel wine-platform-9-devel-core22 &&\
+sudo snap connect fusion360:wine-runtime-c22 wine-platform-runtime-core22 &&\
+fusion360
+sudo snap refresh fusion360 --devmode
+fusion360
+sudo nvim ~/.local/share/applications/adskidmgr-opener.desktop
+snap remove fusion360
+steam
+ls -la /mnt/Maxwell/SteamLibrary/
+df -T /mnt/Maxwell
+ls -la /run/media/eric/Feynman
+df -T /run/media/eric/Feynman
+sudo mkdir -p /mnt/Feynman
+sudo blkid /dev/sda1
+sudo nano /etc/fstab
+sudo umount /run/media/eric/Feynman
+df -h | grep Feynman
+lsblk
+sudo wipefs -a /dev/sdb
+df -h | grep Planck
+sudo blkid /dev/sdb1
+sudo blkid /dev/sdb
+\:q
+nvim
+sudo systemctl daemon-reload
+sudo mount -a
+sudo nvim /etc/fstab
+sudo chown eric:eric /mnt/Feynman\
+sudo chmod 755 /mnt/Feynman
+sudo chown eric:eric /mnt/Planck\
+sudo chmod 755 /mnt/Planck
+discord
+cd /home/eric/Pictures/ep
+nvim ep.txt
+freecad
+cd /var/lib/flatpak
+ld
+org.freecad.FreeCAD
+cd app
+cd org.freecad.FreeCAD
+cd x86_64
+cd stable
+cd active
+cd freecad
+cd ./
+dnf search freecad
+cd ./local/
+cd ~/.local
+rpm -qf FreeCAD
+cd /usr/bin
+flatpak freecad
+flatpak --help
+flatpak run freecad
+dnf install Packagekit-gtk3-module
+sudo dnf install Packagekit-gtk3-module
+sudo dnf install PackageKit-gtk3-module
+winetricks
+flatpak run org.freecad.FreeCAD
+go --version
+cd Downloads
+go
+go version
+sudo  rm -rf /usr/local/go && tar -C /usr/local -xzf go1.24.3.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.24.3.linux-amd64.tar.gz
+export PATH=$PATH:/usr/local/go/bin
+tmux
+vim GoWeb
+vim .
+cd Grease
+mkdir goprojects
+go help
+go mod init ToDo
+mkdir ToDo
+cp go.mod ./ToDo
+rm -r go.mod
+cd ToDo
+touch todo.go
+go run .
+flatpak install flathub com.heroicgameslauncher.hgl
+rm -rf "drive_c/users/$USER/Local Settings/Application Data/EpicGamesLauncher/Saved/webcache"\
+rm -rf "drive_c/users/$USER/AppData/Local/EpicGamesLauncher/Saved/webcache"
+cd /home/eric/
+cd games
+cd epic-games-store
+mkdir -p ~/.steam/root/compatibilitytools.d/\
+
+cd ~/.steam/root/compatibilitytools.d/\
+tar -xf ~/Downloads/Proton-8.0-5.tar.gz
+tar -xf ~/Downloads/Proton-proton-8.0-5.tar.gz
+tar -xf ~/Downloads/Proton-proton-9.0-4.tar.gz
+mkdir -p ~/.local/share/lutris/runners/wine/
+tar -xf ~/Downloads/GE-Proton10-3.tar.gz -C ~/.local/share/lutris/runners/wine/
+cd ~/.local/share/lutris/runners/wine/
+cd GE-Proton10-3
+cd files
+tree
+cd ~/.local/share/lutris/runners/wine/GE-Proton10-3\
+mv files/* .\
+rmdir files\
+
+cd ~/Games/epic-games-store
+sudo chown -R $USER:$USER .
+chmod -R 755 .
+chmod -R 755 drive_c/
+ls -la ~/Games/epic-games-store/drive_c/
+ls -la ~/Games/epic-games-store/system.reg
+rm -rf ~/Games/epic-games-store/drive_c/users/eric/AppData/Local/EpicGamesLauncher/Saved/\
+rm -rf ~/Games/epic-games-store/drive_c/users/eric/Local\ Settings/Application\ Data/EpicGamesLauncher/
+cd ~/Games/epic-games-store\
+WINEPREFIX=$PWD ~/.local/share/lutris/runners/wine/GE-Proton10-3/bin/wine "drive_c/Program Files (x86)/Epic Games/Launcher/Portal/Binaries/Win32/EpicGamesLauncher.exe" -windowed -d3d11
+# Navigate to your Wine prefix\
+cd ~/Games/epic-games-store\
+\
+# Run Wine configuration\
+WINEPREFIX=$PWD ~/.local/share/lutris/runners/wine/GE-Proton10-3/bin/winecfg
+wine --version
+rm -rf epic-games-store
+sudo rm -rf epic-games-store
+mkdir -p ~/Games/epic-games-store/drive_c/ProgramData/Epic/EpicGamesLauncher/Data/
+# Using winetricks in your Wine prefix\
+cd ~/Games/epic-games-store\
+WINEPREFIX=$PWD winetricks corefonts vcrun2019 vcrun2022 dotnet48
+ps aux | grep -i epic
+gnome-shell --list-windows
+wmctrl -l
+cd ~/Games/epic-games-store\
+WINEPREFIX=$PWD wine regedit
+cd goprojects
+mkdir Exposures
+cd Exposures
+mkdir backend
+mkdir frontend
+mkdir shared
+go mod init exposures
+grep go.mod
+cat go.mod
+cd ./frontend
+npx create-react-app . --template typescript
+npm install -D tailwindcss
+cd node_modules
+grep .gitignore
+grep -R ".gitignore"
+cd public
+nvim tailwind.config.js
+cd src
+nvim index.css
+cd goprojects/Exposures
+rm -rf .git
+cp ./Exposures ./Expo
+cp -r ./Exposures ./Expo
+cd ../Exposures
+rm -rf Exposures
+cd Expo
+git init
+git remote add origin https://github.com/reverenddude/Expo
+git remote remove origin
+git remote add origin https://github.com/reverenddude/Expo.git
+git commit -m "Initial commit"
+git tree
+git --help
+git log
+git push
+git pull
+git config pull.rebase false
+git pull origin main
+git pull origin main --allow-unrelated-histories
+git push -u origin main --force
+touch server.go
+git commit -m "Initial server creation and logging testing"
+curl localhost:8080/log
+curl localhost:8080/stop
+git commit -m "Updated git ignore and tweaked server to test logging on the app struct"
+curl localhost:8080/
+curl localhost:8080
+go mod tidy
+cd ../frontend
+npm install tailwindcss
+npm uninstall tailwindcss\
+npm install -D tailwindcss
+npx tailwindcss init
+npm likst tailwindcss
+npm list tailwindcss
+npm install tailwindcss @tailwindcss/cli
+npm uninstall tailwindcss\
+npm install -D tailwindcss@^3.4.0
+npm star
+npm uninstall tailwindcss\
+npm install -D tailwindcss@^3.4.0 @tailwindcss/cli
+npx @tailwindcss/cli -i ./src/index.css -o ./src/new_index.css --watch
+code .
+git commit -m "Configured tailwindcss"
+cd ./zshrc
+cd ~./local/
+cd .local
+cd share
+cd ~
+cd nvim ./zshrc
+nvim .
+cd ./local/share
+cd ./local
+cd .local/share
+cd zinit
+go run .s
+git commit -m "what'd i do?"
+cd add .
+git commit -m "Added CORS middleware and random image display"
+git push origin main
+npx start
+cd src/components
+touch AllImagesComponent.tsx
+tree .
+cd pages
+touch AllImagesPage.tsx
+cd ../../..
+npm install react-router-dom\
+npm install @types/react-router-dom
+flatpak remove nvidia-570-144
+flatpak remove nvidia-570-153-02
+flatpak list
+flatpak run org.discord.Discord
+flatpak run org.discordapp.Discord
+sudo flatpak run com.discordapp.Discord -l
+sudo -i
+sudo flatpak run com.discordapp.Discord
+flatpak run com.discordapp.Discord
+flatpak run --command=discord com.discordapp.Discord --disable-gpu
+flatpak run com.discordapp.Discord --disable-gpu
+flatpak install --user https://dl.flathub.org/build-repo/119220/community.pathofbuilding.PathOfBuilding.flatpakref
+flatpak install flathub community.pathofbuilding.PathOfBuilding
+flatpak run community.pathofbuilding.PathOfBuilding
+flatpak remove community.pathofbuilding.PathOfBuilding
+cd /home/eric/Do
+cd .
+cd ./Documents
+cd ./Games/path-of-building
+winecfg
+cd frontend
+cd backend
+go run ./server.go
+npm start
+ssh eric@192.168.0.105
+ssh eric@192.168.0.107
+touch info.txt
+ssh eric@192.168.0.103
+ssh eric@192.168.0.106
+mkdir treetime
+cd ../..
+rm -rf treetime
+cargo new treetime
+cd cargo run
+sudo dnf update
+neofetch
+cd Rust
+cargo new hello
+touch hello.html
+touch 404.html
+touch lib.rs
+cargo doc --open
+ssh eric@192.168.0.108
+c
+cd RustroverProjects
+cd hello
+cargo new tokio
+cd tokio
+rm -rf tokio
+rm -rf tokioooo
+cargo new raytrace
+cd raytrace
+feh
+feh image.ppm
+dnf remove feh
+sudo dnf remove feh
+image.ppm
+cargo build
+cargo add rand
+git remote add origin https://github.com/reverenddude/raytrace.git
+git branch -M main
+git put -u origin main
+git add .
+git commit -m "initial commit"
+git push -u origin main
+cd RustroverProjects/rust-disco
+pwd
+cd src/processing
+cargo test build_tree
+cd treetime
+cargo new tokioooo
+ls
+cd tokioooo
+cargo add tokio
+cd rust-disco
+cargo add anyhow
+cd ..
+zed .
+cargo run
+cargo test build_tree -- --nocapture
+cargo remove tokio
+exit
+: 1755748904:0;git add .
+: 1755748912:0;git commit -m "minor tweaks"
+: 1755748918:0;git push -u origin main
+: 1755753162:0;pwd
+: 1755755094:0;git add .
+: 1755755160:0;git commit -m "Implemented a basic concept for handling child extraction using a new trait and new getter in the processor trait. The extraction is handled by the worker which on initial implementation feels good"
+: 1755755169:0;git push -u origin main
+: 1755755209:0;git status
+: 1755755233:0;git push -u origin processor-overhaul
+: 1755814102:0;cargo add flate2
+: 1755814167:0;cargo add tar
+: 1755814313:0;cargo add sevenz-rust2
+: 1755814882:0;pwd
+: 1755817874:0;git add .
+: 1755817889:0;git commit -m "Started working on extractor types to handle child extractions."
+: 1755817893:0;git push -u origin processor-overhaul
+: 1755875289:0;git add .
+: 1755875309:0;git commit -m "Implemented basic extractors for some container types"
+: 1755875346:0;git add .
+: 1755875350:0;git commit -m "Implemented basic extractors for some container types"
+: 1755875355:0;git push -u origin processor-overhaul
+: 1756747765:0;git add .
+: 1756747777:0;git commit -m "Added a docstring"
+: 1756747780:0;git push -u origin processor-overhaul
+: 1756766590:0;git add .
+: 1756766615:0;git commit -m "Added basic xlsx extractor"
+: 1756766619:0;git push -u origin processor-overhaul
+: 1756786701:0;cd src/processing
+: 1756786702:0;ls
+: 1756786708:0;mkdir processors
+: 1756786712:0;mkdir extractors
+: 1756786717:0;mkdir formats
+: 1756786793:0;cd src/processing
+: 1756786796:0;touch base.rs
+: 1756786805:0;touch traits.rs
+: 1756786810:0;touch dispatch.rs
+: 1756787584:0;cd src
+: 1756787586:0;tree .
+: 1756787636:0;cd src/processing/extractors
+: 1756787638:0;touch mod.rs
+: 1756787645:0;cd ..
+: 1756787648:0;cd formats
+: 1756787653:0;touch mod.rs
+: 1756787663:0;cd ../processors
+: 1756787666:0;touch mod.rs
+: 1756790557:0;git add .
+: 1756790610:0;git commit -m "Split out the processors.rs file into new structure for more modularity and reduced monolithic approach. About ready to delete some old junk"
+: 1756790618:0;git push -u origin processor-overhaul
+: 1757529864:0;cd ~/.config
+: 1757529864:0;ls
+: 1757530870:0;cd ..
+: 1757530873:0;ls
+: 1757530875:0;vim .
